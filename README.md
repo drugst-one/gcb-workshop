@@ -28,4 +28,5 @@ Checkpoints organized in different branches
 - HTML syntax checker: [TODO]()
 - JSON syntax checker: [TODO]()
 - JavaScript Button: [button](https://www.w3schools.com/jsref/event_onclick.asp)
+- JavaScript text area: [text area](https://www.w3schools.com/jsref/prop_textarea_value.asp)
 - more...
