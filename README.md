@@ -13,8 +13,15 @@
 ## Checkpoints for HTML task
 - Checkpoints folder: [TODO]()
 
-## Checkpoints for Django task
-- Checkpoints folder: [TODO]()
+## Django application task
+Base project:
+- [repository](https://github.com/drugst-one/django-template)
+Checkpoints organized in different branches
+- [Checkpoint 1](https://github.com/drugst-one/django-template/tree/workshop_checkpoint1)
+- [Checkpoint 2](https://github.com/drugst-one/django-template/tree/workshop_checkpoint2)
+- [Checkpoint 3](https://github.com/drugst-one/django-template/tree/workshop_checkpoint3)
+- [Checkpoint 4](https://github.com/drugst-one/django-template/tree/workshop_checkpoint4)
+- [Checkpoint 5](https://github.com/drugst-one/django-template/tree/workshop_checkpoint5)
 
 # External links:
 - Drugst.One website: [drugst.one](https://drugst.one)
