@@ -1,0 +1,14 @@
+#Gene	Function	Up/Down
+TNF	Involved in the inflammatory response	Upregulated
+IL6	Cytokine promoting inflammation	Upregulated
+IL10	Anti-inflammatory cytokine	Downregulated
+IL23A	Involved in the differentiation of T-helper 17 cells	Upregulated
+IFNG	Involved in immune response	Upregulated
+OCLN	Maintenance of tight junctions in the intestinal epithelium	Downregulated
+CLDN2	Tight junction protein, involved in maintaining barrier function	Variable (up/down)
+STAT3	Involved in signal transduction and activation of various genes	Upregulated
+NFKB1	Key regulator of inflammatory responses	Upregulated
+NFKB2	Key regulator of inflammatory responses	Upregulated
+NOD2	Recognition of bacterial molecules; immune response regulation	Variable (mutation-associated)
+MUC2	Formation of a protective mucous barrier in the gut	Downregulated
+PTGS2	Involved in the inflammatory response (also known as COX-2)	Upregulated
