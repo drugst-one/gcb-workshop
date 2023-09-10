@@ -8,7 +8,7 @@
 # Links in repository
 
 ## Seed file
-- Seeds file: [TODO]()
+- Seeds file: [IBD_genes.tsv](https://github.com/drugst-one/gcb-workshop/blob/main/IBD_genes.tsv)
 
 ## Checkpoints for HTML task
 - Checkpoints folder: [TODO]()
