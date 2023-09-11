@@ -1,0 +1,33 @@
+<head>
+   <script src="https://cdn.drugst.one/latest/drugstone.js"></script>
+   <link rel="stylesheet" href="https://cdn.drugst.one/latest/styles.css">
+</head>
+
+<body>
+   <drugst-one
+           groups='{"nodeGroups":{"upregulated":{"type":"gene","color":"#00c739","font":{"color":"#000000"},"groupName":"Upgregulated IBD gene","shape":"circle","id":"upregulated"},"downregulated":{"type":"gene","color":"#f50000","font":{"color":"#000000"},"groupName":"Downregulated IBD gene","shape":"circle","id":"downregulated"}},"edgeGroups":{"default":{"color":"#000000","groupName":"default edge"}}}'
+           config='{"identifier":"symbol","title":"IBD DE gene network","nodeShadow":true,"edgeShadow":false,"autofillEdges":true,"physicsOn":true,"activateNetworkMenuButtonAdjacentDrugs":true,"activateNetworkMenuButtonAdjacentDisorders":false,"licensedDatasets":true}'
+           network='{"nodes":[{"id":"IL10","group":"downregulated","label":"IL10"},{"id":"OCLN","group":"downregulated","label":"OCLN"},{"id":"CLDN2","group":"downregulated","label":"CLDN2"},{"id":"NOD2","group":"downregulated","label":"NOD2"},{"id":"MUC2","group":"downregulated","label":"MUC2"},
+   {"id":"TNF","group":"upregulated","label":"TNF"},{"id":"IL6","group":"upregulated","label":"IL6"},{"id":"IL23A","group":"upregulated","label":"IL23A"},{"id":"IFNG","group":"upregulated","label":"IFNG"},{"id":"STAT3","group":"upregulated","label":"STAT3"},{"id":"NFKB1","group":"upregulated","label":"NFKB1"},{"id":"NFKB2","group":"upregulated","label":"NFKB2"},{"id":"PTGS2","group":"upregulated","label":"PTGS2"}]}'>
+</drugst-one>
+</body>
+
+<style>
+   :root {
+   --drgstn-primary:#6735f0;
+   --drgstn-secondary:#6735f0;
+   --drgstn-success:#8c65f7;
+   --drgstn-warning:#6735f0;
+   --drgstn-danger:#270487;
+   --drgstn-background:#efebff;
+   --drgstn-panel:#efebff;
+   --drgstn-info:#6735f0;
+   --drgstn-text-primary:#151515;
+   --drgstn-text-secondary:#eeeeee;
+   --drgstn-border:rgba(0, 0, 0, 0.2);
+   --drgstn-tooltip:rgba(74,74,74,0.9);
+   --drgstn-panel-secondary:#efebff;
+   --drgstn-height:600px;
+   --drgstn-font-family:Helvetica Neue, sans-serif;
+}
+</style>

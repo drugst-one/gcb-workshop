@@ -30,4 +30,5 @@ Checkpoints organized in different branches
 - JavaScript Button: [button](https://www.w3schools.com/jsref/event_onclick.asp)
 - JavaScript text area: [text area](https://www.w3schools.com/jsref/prop_textarea_value.asp)
 - Structure of a HTML file: [intro](https://www.geeksforgeeks.org/html-course-structure-of-an-html-document/)
+- Make GET/POST request with JS and axios: https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/
 - more...
